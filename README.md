@@ -1,2 +1,5 @@
+<html>
 # Simple-linear-Regression
-this is an educational linear Regression with Housing DataSet
+<hr>
+this is an educational linear Regression with Housing Data Set by university of washington
+</html>
